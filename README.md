@@ -43,7 +43,7 @@ The system uses a hybrid architecture combining **external drug** **APIs** with 
 - Sorted by lowest price
 - Clear disclaimer before switching medicines
 
-### 💰 Price Comparison (Bangladesh)
+### 💰 Price Comparison (Only 🇧🇩 Now)
 - Minimum price
 - Maximum price
 - Average price
@@ -66,7 +66,7 @@ The system uses a hybrid architecture combining **external drug** **APIs** with 
 
 ---
 
-## 🧠 Hybrid Data Architecture (Very Important)
+## 🧠 Hybrid Data Architecture
 
 ```text
 User Search
