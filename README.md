@@ -95,8 +95,6 @@ Results shown to user
 > Prices are maintained locally for accuracy. what would be the result?
 ---
 
----
-
 ## 🧑‍💻 Tech Stack
 
 | Layer    | Technology                     |
@@ -178,7 +176,6 @@ http://localhost/medicine-finder/admin/login.php
 - Admin routes protected from public access
 ---
 
----
 ## 🔐 Security Notes
 - No API keys are stored in frontend
 - External APIs accessed via PHP to avoid CORS issues
@@ -201,8 +198,10 @@ http://localhost/medicine-finder/admin/login.php
 ## ⚠️ Disclaimer
 
 > This application provides medicine price and alternative information for educational purposes only.
-> It does not provide medical advice.
 > Always consult a registered physician or pharmacist before using or switching medicines.
+
+🔴 **It does not provide medical advice.**
+
 ---
 
 ## 📄 License
